@@ -1,0 +1,4 @@
+,Train Accuracy,Test Accuracy
+Random Forest,1.0,1.0
+SVM,1.0,1.0
+MLP,1.0,1.0
